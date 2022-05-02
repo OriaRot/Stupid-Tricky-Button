@@ -1,0 +1,143 @@
+body{
+    background-color: #758f7c;
+    display: flex;
+    justify-content: center;
+}.btn{
+    background-color: #758f7c;
+    color: #ff0000;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.a{
+    background-color: #758f7c;
+    color: #ff0000;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.b{
+    background-color: #758f7c;
+    color: #000000c0;
+    margin-left: 300px;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.c{
+    background-color: #758f7c;
+    color: #95ff00ba;
+    margin-right: 20px;
+    margin-bottom: 200px;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.d{
+    background-color: #758f7c;
+    color: #ff00ee;
+    margin-top: 150px;
+    margin-left: 40px;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.e{
+    background-color: #758f7c;
+    color: #d6a620;
+    margin-right: 150px;
+    margin-bottom: 120px;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.f{
+    background-color: #758f7c;
+    color: greenyellow;
+    margin-right: 410px;
+    margin-top: 410px;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.g{
+    background-color: #758f7c;
+    color: blue;
+    margin-left: 20px;
+    margin-top: 410px;
+    width: 40px;
+    height: 40px;
+    border: 5px;
+    border-radius: 10px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+
+.a:hover{
+   left: 100px;
+   top: 270px;
+   transition: 0s 0s;
+}
+.b:hover{
+   right: 200px;
+   top: 270px;
+   transition: 0s 0s;
+}
+.c:hover{
+   left: 50px;
+   bottom: 350px;
+   transition: 0s 0s;
+}
+.d:hover{
+    left: 200px;
+    top: 270px;
+    transition: 0s 0s;
+ }
+ .e:hover{
+    left: 500px;
+    top: 50px;
+    transition: 0s 0s;
+ }
+ .f:hover{
+    right: 420px;
+    bottom: 110px;
+    transition: 0s 0s;
+ }
+ .g:hover{
+    left: 400px;
+    bottom: 30px;
+    transition: 0s 0s;
+ }
+
